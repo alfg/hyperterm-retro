@@ -4,7 +4,7 @@ const cursorColor = '#f9bf11';
 const borderColor = '#000000';
 const textShadow = '#d6921b';
 const backgroundStyle = `
-  text-shadow: 0 0 5px #d6921b, 0 0 5px #d6921b, 0 0 10px #d6921b;
+  text-shadow: 0 0 5px #28190f, 0 0 5px #d6921b, 0 0 10px #d6921b;
   background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
   background-color: ${backgroundColor};
   background-size: 100% 2px, 3px 100%;
