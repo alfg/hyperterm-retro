@@ -1,0 +1,22 @@
+{
+  "name": "hyperterm-retro",
+  "version": "1.0.0",
+  "description": "Hyperterm retro theme.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfg/hyperterm-retro.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "colors",
+    "retro"
+  ],
+  "author": "Alf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfg/hyperterm-retro/issues"
+  },
+  "homepage": "https://github.com/alfg/hyperterm-retro#readme"
+}
