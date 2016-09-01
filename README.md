@@ -1,8 +1,8 @@
 # Retro Theme for HyperTerm
 A retro HyperTerm theme inspired by the [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) terminal emulator.
 
-[![npm](https://img.shields.io/npm/v/hyperterm-retro.svg)]()
-[![npm](https://img.shields.io/npm/dt/hyperterm-retro.svg)]()
+[![npm](https://img.shields.io/npm/v/hyperterm-retro.svg)](https://www.npmjs.com/package/hyperterm-retro)
+[![npm](https://img.shields.io/npm/dt/hyperterm-retro.svg)](https://www.npmjs.com/package/hyperterm-retro)
 
 
 ![Screenshot](screenshot-1.png)
