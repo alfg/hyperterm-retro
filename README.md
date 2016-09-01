@@ -12,7 +12,7 @@ plugins: [
   'hyperterm-retro'
 ],
 ```
-* Reload HyperTerm (`Cmd+Shif+R`)
+* Reload HyperTerm (`Cmd+Shift+R`)
 
 ## License
 MIT
